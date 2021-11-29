@@ -10,7 +10,9 @@
 **CSS**
 
 .line {
+<br>
 Border-bottom: 2px solid #ccc
+<br>
 Display:block;
 }
 
